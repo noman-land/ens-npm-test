@@ -1,0 +1,5 @@
+.idea
+node_modules
+*.DS_*
+*.swp
+*.log
